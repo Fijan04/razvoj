@@ -1,0 +1,1459 @@
+fileFormatVersion: 2
+guid: b6b52f374fa5097418b4e003fce334e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4192260375693633823
+    second: mummy sprite sheet_0
+  - first:
+      213: -8759894448544385430
+    second: mummy sprite sheet_1
+  - first:
+      213: 8378454378797393662
+    second: mummy sprite sheet_2
+  - first:
+      213: -7415470056920262208
+    second: mummy sprite sheet_3
+  - first:
+      213: -7273901320401028862
+    second: mummy sprite sheet_4
+  - first:
+      213: -4527739701211801389
+    second: mummy sprite sheet_5
+  - first:
+      213: 1449540179120605774
+    second: mummy sprite sheet_6
+  - first:
+      213: -8262155919068447635
+    second: mummy sprite sheet_7
+  - first:
+      213: 6708060783002689344
+    second: mummy sprite sheet_8
+  - first:
+      213: 4612034026940837057
+    second: mummy sprite sheet_9
+  - first:
+      213: 8834550209931856786
+    second: mummy sprite sheet_10
+  - first:
+      213: 5201998155164040546
+    second: mummy sprite sheet_11
+  - first:
+      213: 4110270256417717831
+    second: mummy sprite sheet_12
+  - first:
+      213: -9071591518100090390
+    second: mummy sprite sheet_13
+  - first:
+      213: 3950643677012747329
+    second: mummy sprite sheet_14
+  - first:
+      213: -6023269922636392266
+    second: mummy sprite sheet_15
+  - first:
+      213: 5896757471777645919
+    second: mummy sprite sheet_16
+  - first:
+      213: -7675693887352316628
+    second: mummy sprite sheet_17
+  - first:
+      213: -2645303092547271558
+    second: mummy sprite sheet_18
+  - first:
+      213: -5594499934865035638
+    second: mummy sprite sheet_19
+  - first:
+      213: -5265757844620946358
+    second: mummy sprite sheet_20
+  - first:
+      213: 613727626375828233
+    second: mummy sprite sheet_21
+  - first:
+      213: 256455235975067146
+    second: mummy sprite sheet_22
+  - first:
+      213: -9163443760963283726
+    second: mummy sprite sheet_23
+  - first:
+      213: -3305834116909180833
+    second: mummy sprite sheet_24
+  - first:
+      213: -186238733638114951
+    second: mummy sprite sheet_25
+  - first:
+      213: 5140284187753048360
+    second: mummy sprite sheet_26
+  - first:
+      213: -3034490793066806547
+    second: mummy sprite sheet_27
+  - first:
+      213: 4677215696746599868
+    second: mummy sprite sheet_28
+  - first:
+      213: -6126051980054896481
+    second: mummy sprite sheet_29
+  - first:
+      213: -242199221301346966
+    second: mummy sprite sheet_30
+  - first:
+      213: 8821666560400788371
+    second: mummy sprite sheet_31
+  - first:
+      213: -2889180082904522283
+    second: mummy sprite sheet_32
+  - first:
+      213: 1078453873916172707
+    second: mummy sprite sheet_33
+  - first:
+      213: -8829064206949692375
+    second: mummy sprite sheet_34
+  - first:
+      213: 3675345007769044259
+    second: mummy sprite sheet_35
+  - first:
+      213: -9021853718619914019
+    second: mummy sprite sheet_36
+  - first:
+      213: 4359671644107966914
+    second: mummy sprite sheet_37
+  - first:
+      213: -3610125003925478816
+    second: mummy sprite sheet_38
+  - first:
+      213: -3325438996355662522
+    second: mummy sprite sheet_39
+  - first:
+      213: -8776046370321410650
+    second: mummy sprite sheet_40
+  - first:
+      213: 5362091304778052998
+    second: mummy sprite sheet_41
+  - first:
+      213: -4251112526859909141
+    second: mummy sprite sheet_42
+  - first:
+      213: 3946167106316140303
+    second: mummy sprite sheet_43
+  - first:
+      213: 644531315136425663
+    second: mummy sprite sheet_44
+  - first:
+      213: -1133338078456801466
+    second: mummy sprite sheet_45
+  - first:
+      213: -6990576155397104974
+    second: mummy sprite sheet_46
+  - first:
+      213: -7942444710106047960
+    second: mummy sprite sheet_47
+  - first:
+      213: -5508001830654160980
+    second: mummy sprite sheet_48
+  - first:
+      213: 6501979801012924590
+    second: mummy sprite sheet_49
+  - first:
+      213: 2886300002435610605
+    second: mummy sprite sheet_50
+  - first:
+      213: -2914003178153146818
+    second: mummy sprite sheet_51
+  - first:
+      213: 7145587766164451407
+    second: mummy sprite sheet_52
+  - first:
+      213: 7716267342807896055
+    second: mummy sprite sheet_53
+  - first:
+      213: -1864035514301113798
+    second: mummy sprite sheet_54
+  - first:
+      213: 7990526135509999810
+    second: mummy sprite sheet_55
+  - first:
+      213: -1247097005565026818
+    second: mummy sprite sheet_56
+  - first:
+      213: -9089769438076508105
+    second: mummy sprite sheet_57
+  - first:
+      213: 4279240290543192647
+    second: mummy sprite sheet_58
+  - first:
+      213: 1895292893751949541
+    second: mummy sprite sheet_59
+  - first:
+      213: 6096501610049038574
+    second: mummy sprite sheet_60
+  - first:
+      213: -7894412091871553765
+    second: mummy sprite sheet_61
+  - first:
+      213: 3611373983799746587
+    second: mummy sprite sheet_62
+  - first:
+      213: 5881117287592647956
+    second: mummy sprite sheet_63
+  - first:
+      213: -6232139010640018364
+    second: mummy sprite sheet_64
+  - first:
+      213: -3668900346954829637
+    second: mummy sprite sheet_65
+  - first:
+      213: -8954044775602238786
+    second: mummy sprite sheet_66
+  - first:
+      213: -1841956724549829258
+    second: mummy sprite sheet_67
+  - first:
+      213: -7995319345690403387
+    second: mummy sprite sheet_68
+  - first:
+      213: -1053072569538265618
+    second: mummy sprite sheet_69
+  - first:
+      213: -6678879274031440864
+    second: mummy sprite sheet_70
+  - first:
+      213: -8308358041735646867
+    second: mummy sprite sheet_71
+  - first:
+      213: 7159475218119035237
+    second: mummy sprite sheet_72
+  - first:
+      213: 5592528510502500445
+    second: mummy sprite sheet_73
+  - first:
+      213: -4335722426100893142
+    second: mummy sprite sheet_74
+  - first:
+      213: -4848410100149279863
+    second: mummy sprite sheet_75
+  - first:
+      213: 7671373559569792578
+    second: mummy sprite sheet_76
+  - first:
+      213: -4884723863949917211
+    second: mummy sprite sheet_77
+  - first:
+      213: 5043469047809319424
+    second: mummy sprite sheet_78
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mummy sprite sheet_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 762
+        width: 42
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192a23a996ed2a30800000000000000
+      internalID: 4192260375693633823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_1
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 763
+        width: 41
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a667894396a9e6680800000000000000
+      internalID: -8759894448544385430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_2
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 763
+        width: 42
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef6e807dddf364470800000000000000
+      internalID: 8378454378797393662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 763
+        width: 42
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c9d8b6a545f61990800000000000000
+      internalID: -7415470056920262208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_4
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 762
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2097042b949ed0b90800000000000000
+      internalID: -7273901320401028862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 762
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d856d11bbc3a21c0800000000000000
+      internalID: -4527739701211801389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_13
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 644
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae19230e39b3b1280800000000000000
+      internalID: -9071591518100090390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_14
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 643
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 144ec7a2e7183d630800000000000000
+      internalID: 3950643677012747329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_15
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 643
+        width: 37
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b896f20beb096ca0800000000000000
+      internalID: -6023269922636392266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_16
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 643
+        width: 36
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f55efef9dad75d150800000000000000
+      internalID: 5896757471777645919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_17
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 644
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d5ab7b3157a7590800000000000000
+      internalID: -7675693887352316628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_18
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 644
+        width: 38
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a744a7d4adef94bd0800000000000000
+      internalID: -2645303092547271558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_20
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 517
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a445426b3254ce6b0800000000000000
+      internalID: -5265757844620946358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_21
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 515
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90399f64606648800800000000000000
+      internalID: 613727626375828233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_22
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 516
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a063519adac1f8300800000000000000
+      internalID: 256455235975067146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_23
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 515
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4938c0378e4d080800000000000000
+      internalID: -9163443760963283726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_24
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 517
+        width: 55
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f58d24fb2615f12d0800000000000000
+      internalID: -3305834116909180833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_25
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 515
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971e416cbd85a6df0800000000000000
+      internalID: -186238733638114951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_26
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 516
+        width: 57
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829e39ffb35f55740800000000000000
+      internalID: 5140284187753048360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_27
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 515
+        width: 53
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de24f0d73b253e5d0800000000000000
+      internalID: -3034490793066806547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_31
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 405
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39b81ab5ffadc6a70800000000000000
+      internalID: 8821666560400788371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_32
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 407
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1a75aa50297e7d0800000000000000
+      internalID: -2889180082904522283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_33
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 408
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a9da6d951077fe00800000000000000
+      internalID: 1078453873916172707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_34
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 407
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92cc5a5d1ecd87580800000000000000
+      internalID: -8829064206949692375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_35
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 405
+        width: 50
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325441fcfc2710330800000000000000
+      internalID: 3675345007769044259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_36
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 407
+        width: 46
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd08f1eb7dfebc280800000000000000
+      internalID: -9021853718619914019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_37
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 408
+        width: 50
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c90664034aa08c30800000000000000
+      internalID: 4359671644107966914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_38
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 407
+        width: 54
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062244aaf6246edc0800000000000000
+      internalID: -3610125003925478816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_39
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 269
+        width: 51
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64d3dfb0adaa9d1d0800000000000000
+      internalID: -3325438996355662522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_40
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 261
+        width: 52
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5d2acd258353680800000000000000
+      internalID: -8776046370321410650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_41
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 264
+        width: 44
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685b182d1a9f96a40800000000000000
+      internalID: 5362091304778052998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_42
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 274
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be74d402ea30105c0800000000000000
+      internalID: -4251112526859909141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_43
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 264
+        width: 46
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0ffd44531a93c630800000000000000
+      internalID: 3946167106316140303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_44
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 262
+        width: 42
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbe6255f0d5d1f800800000000000000
+      internalID: 644531315136425663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_45
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 274
+        width: 54
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6479827b5039540f0800000000000000
+      internalID: -1133338078456801466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_53
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 151
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ff03080440b51b60800000000000000
+      internalID: 7716267342807896055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_54
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 142
+        width: 38
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a9e59639d9126e0800000000000000
+      internalID: -1864035514301113798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_55
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 143
+        width: 47
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c06c834f2d04ee60800000000000000
+      internalID: 7990526135509999810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_56
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 155
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdd7de71eb61bee0800000000000000
+      internalID: -1247097005565026818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_57
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 145
+        width: 38
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7386f311bd6aad180800000000000000
+      internalID: -9089769438076508105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_58
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 148
+        width: 38
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74acd523f5ae26b30800000000000000
+      internalID: 4279240290543192647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_59
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 155
+        width: 45
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e8386d58de6d4a10800000000000000
+      internalID: 1895292893751949541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_61
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 13
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b179271670a617290800000000000000
+      internalID: -7894412091871553765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_62
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 8
+        width: 43
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b10a87f118d2e1230800000000000000
+      internalID: 3611373983799746587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_63
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 12
+        width: 37
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d5e59730ded9150800000000000000
+      internalID: 5881117287592647956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_64
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 13
+        width: 46
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44482ffc69ef289a0800000000000000
+      internalID: -6232139010640018364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_65
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 19
+        width: 90
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb03377b292751dc0800000000000000
+      internalID: -3668900346954829637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_66
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 16
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eba494797b7dcb380800000000000000
+      internalID: -8954044775602238786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_71
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 40
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61369f6168c2bc80800000000000000
+      internalID: -8308358041735646867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_72
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 42
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569823247c09b5360800000000000000
+      internalID: 7159475218119035237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_77
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 31
+        width: 23
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e3446fa689f53cb0800000000000000
+      internalID: -4884723863949917211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mummy sprite sheet_78
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 33
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0022a56a0600ef540800000000000000
+      internalID: 5043469047809319424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
