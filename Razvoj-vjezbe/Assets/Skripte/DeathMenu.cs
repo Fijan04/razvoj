@@ -25,7 +25,7 @@ public class DeathMenu : MonoBehaviour
     public void Restart()
     {
         Time.timeScale = 1f;
-        SceneManager.LoadScene("Nivo1");
+        SceneManager.LoadScene("Level1");
     }
 
     public void MainMenu()
