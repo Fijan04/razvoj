@@ -9,6 +9,7 @@ TagManager:
   - Enemy
   - Bullet
   - next
+  - Bomb
   layers:
   - Default
   - TransparentFX
@@ -21,7 +22,7 @@ TagManager:
   - Bottom layer
   - Top layer
   - Bullet
-  - 
+  - Enemy
   - 
   - 
   - 

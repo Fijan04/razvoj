@@ -7,6 +7,6 @@ public class EnemyLayer : MonoBehaviour
 {
     private void Update()
     {
-        Physics2D.IgnoreLayerCollision(8, 8);
+        Physics2D.IgnoreLayerCollision(11, 11);
     }
 }

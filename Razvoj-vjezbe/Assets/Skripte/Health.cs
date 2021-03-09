@@ -38,5 +38,10 @@ public class Health : MonoBehaviour
                 }
             }
         }
+
+        if (collision.gameObject.tag == "Bomb")
+        {
+           dead = true;
+        }
     }
 }

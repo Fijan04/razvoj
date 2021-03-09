@@ -13,7 +13,7 @@ public class EnemyDeath : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (gameObject.tag == "Enemy")
+        if (collision.tag == "Player")
         {
             Destroy(gameObject);
             Instantiate(explosion2, enemy.position, transform.rotation = Quaternion.identity);

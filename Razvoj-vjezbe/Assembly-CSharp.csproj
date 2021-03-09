@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="Assets\Skripte\ScoreReset.cs" />
     <Compile Include="Assets\Skripte\EndScreen.cs" />
+    <Compile Include="Assets\Skripte\Portal.cs" />
     <Compile Include="Assets\Skripte\Doors.cs" />
     <Compile Include="Assets\Skripte\DoorBoss.cs" />
     <Compile Include="Assets\Skripte\MainMenu.cs" />
@@ -92,7 +93,7 @@
     <Compile Include="Assets\Skripte\Enemy.cs" />
     <Compile Include="Assets\Skripte\MusicSlider.cs" />
     <Compile Include="Assets\Skripte\Score.cs" />
-    <Compile Include="Assets\Skripte\Portal.cs" />
+    <Compile Include="Assets\Skripte\GameManager.cs" />
   </ItemGroup>
   <ItemGroup>
      <None Include="Assets\Tilemap\Cainos\Tilemap\Shader\SH Sprite Shadow.shader" />
