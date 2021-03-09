@@ -20,17 +20,23 @@ public class DeathMenu : MonoBehaviour
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene(SceneManager.GetActiveScene().name);
+        PlayerPrefs.DeleteKey("score");
+        PlayerPrefs.Save();
     }
 
     public void Restart()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("Level1");
+        PlayerPrefs.DeleteKey("score");
+        PlayerPrefs.Save();
     }
 
     public void MainMenu()
     {
         Time.timeScale = 1f;
         SceneManager.LoadScene("MainMenu");
+        PlayerPrefs.DeleteKey("score");
+        PlayerPrefs.Save();
     }
 }

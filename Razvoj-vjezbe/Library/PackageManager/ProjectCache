@@ -1,20 +1,20 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: C:/Users/ffili/OneDrive/Documents/GitHub/razvoj/Razvoj-vjezbe/Packages/manifest.json
+    m_FilePath: C:/Users/CAD-08ucenik/Documents/GitHub/Filip Fijan/razvoj/Razvoj-vjezbe/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637506257893871078
-    m_Hash: 2245594901
+      ticks: 637508670720833557
+    m_Hash: 1385789116
   m_LockFileStatus:
-    m_FilePath: C:/Users/ffili/OneDrive/Documents/GitHub/razvoj/Razvoj-vjezbe/Packages/packages-lock.json
+    m_FilePath: C:/Users/CAD-08ucenik/Documents/GitHub/Filip Fijan/razvoj/Razvoj-vjezbe/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637506258196945842
-    m_Hash: 3477169618
+      ticks: 637508670720833557
+    m_Hash: 2358934726
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_PackageAssets:
@@ -25,7 +25,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.2.6
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.animation@4.2.6
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.animation@4.2.6
       assetPath: Packages/com.unity.2d.animation
       name: com.unity.2d.animation
       displayName: 2D Animation
@@ -75,7 +75,6 @@ m_PackageAssets:
         - 3.2.3
         - 3.2.4
         - 3.2.5
-        - 3.2.6
         - 4.0.0
         - 4.0.1
         - 4.1.0
@@ -86,18 +85,12 @@ m_PackageAssets:
         - 4.2.4
         - 4.2.5
         - 4.2.6
-        - 4.2.8
         - 5.0.0
         - 5.0.1
         - 5.0.2
-        - 5.0.3
-        - 5.0.4
-        - 6.0.0-pre.1
-        - 6.0.0-pre.2
         compatible:
         - 4.2.6
-        - 4.2.8
-        verified: 4.2.8
+        verified: 4.2.6
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -156,7 +149,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.2
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.pixel-perfect@3.0.2
       assetPath: Packages/com.unity.2d.pixel-perfect
       name: com.unity.2d.pixel-perfect
       displayName: 2D Pixel Perfect
@@ -186,14 +179,11 @@ m_PackageAssets:
         - 2.0.2
         - 2.0.3
         - 2.0.4
-        - 2.1.0
         - 3.0.0
         - 3.0.1
         - 3.0.2
         - 4.0.0
         - 4.0.1
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -229,7 +219,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.1.6
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.psdimporter@3.1.6
       assetPath: Packages/com.unity.2d.psdimporter
       name: com.unity.2d.psdimporter
       displayName: 2D PSD Importer
@@ -272,16 +262,12 @@ m_PackageAssets:
         - 3.1.4
         - 3.1.5
         - 3.1.6
-        - 3.1.7
         - 4.0.0
         - 4.0.1
         - 4.0.2
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.1.6
-        - 3.1.7
-        verified: 3.1.7
+        verified: 3.1.6
       dependencies:
       - name: com.unity.2d.common
         version: 3.0.1
@@ -390,7 +376,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 4.1.4
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.spriteshape@4.1.4
       assetPath: Packages/com.unity.2d.spriteshape
       name: com.unity.2d.spriteshape
       displayName: 2D SpriteShape
@@ -436,7 +422,6 @@ m_PackageAssets:
         - 3.0.12
         - 3.0.13
         - 3.0.14
-        - 3.0.15
         - 4.0.0
         - 4.0.1
         - 4.0.2
@@ -446,18 +431,12 @@ m_PackageAssets:
         - 4.1.2
         - 4.1.3
         - 4.1.4
-        - 4.1.5
         - 5.0.0
         - 5.0.1
         - 5.0.2
-        - 5.1.0
-        - 5.1.1
-        - 6.0.0-pre.1
-        - 6.0.0-pre.2
         compatible:
         - 4.1.4
-        - 4.1.5
-        verified: 4.1.5
+        verified: 4.1.4
       dependencies:
       - name: com.unity.mathematics
         version: 1.1.0
@@ -570,7 +549,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.9
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.collab-proxy@1.3.9
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.collab-proxy@1.3.9
       assetPath: Packages/com.unity.collab-proxy
       name: com.unity.collab-proxy
       displayName: Unity Collaborate
@@ -665,7 +644,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.1
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.rider@1.2.1
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.rider@1.2.1
       assetPath: Packages/com.unity.ide.rider
       name: com.unity.ide.rider
       displayName: JetBrains Rider Editor
@@ -700,10 +679,6 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
-        - 3.0.4
         compatible:
         - 1.0.2
         - 1.0.6
@@ -723,10 +698,6 @@ m_PackageAssets:
         - 2.0.3
         - 2.0.5
         - 2.0.7
-        - 3.0.1
-        - 3.0.2
-        - 3.0.3
-        - 3.0.4
         verified: 1.2.1
       dependencies:
       - name: com.unity.test-framework
@@ -766,7 +737,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 2.0.3
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.visualstudio@2.0.3
       assetPath: Packages/com.unity.ide.visualstudio
       name: com.unity.ide.visualstudio
       displayName: Visual Studio Editor
@@ -793,8 +764,6 @@ m_PackageAssets:
         - 2.0.1
         - 2.0.2
         - 2.0.3
-        - 2.0.5
-        - 2.0.7
         compatible:
         - 1.0.2
         - 1.0.3
@@ -806,9 +775,7 @@ m_PackageAssets:
         - 2.0.1
         - 2.0.2
         - 2.0.3
-        - 2.0.5
-        - 2.0.7
-        verified: 2.0.7
+        verified: 2.0.3
       dependencies: []
       resolvedDependencies: []
       keywords: []
@@ -837,7 +804,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.2.3
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.vscode@1.2.3
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ide.vscode@1.2.3
       assetPath: Packages/com.unity.ide.vscode
       name: com.unity.ide.vscode
       displayName: Visual Studio Code Editor
@@ -893,20 +860,20 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637394922300000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
         url: https://github.cds.internal.unity3d.com/unity/com.unity.ide.vscode.git
-        revision: b5ec9b38109e52b1b26597d521e4df75e042ebb9
+        revision: 547f63839bdc87e0aed2c9e0d84f8f6336a83ea3
         path: 
     - packageId: com.unity.test-framework@1.1.18
       testable: 0
       isDirectDependency: 1
       version: 1.1.18
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.test-framework@1.1.18
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.test-framework@1.1.18
       assetPath: Packages/com.unity.test-framework
       name: com.unity.test-framework
       displayName: Test Framework
@@ -945,15 +912,9 @@ m_PackageAssets:
         - 1.1.14
         - 1.1.16
         - 1.1.18
-        - 1.1.19
-        - 1.1.20
-        - 1.1.22
         compatible:
         - 1.1.18
-        - 1.1.19
-        - 1.1.20
-        - 1.1.22
-        verified: 1.1.22
+        verified: 1.1.18
       dependencies:
       - name: com.unity.ext.nunit
         version: 1.0.0
@@ -983,12 +944,12 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637378481950000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
         type: git
-        url: git+https://github.com/Unity-Technologies/com.unity.test-framework.git
+        url: https://github.com/Unity-Technologies/com.unity.test-framework.git
         revision: 14025b364215f4465cbe1beb7a81e486b2687ced
         path: 
     - packageId: com.unity.textmeshpro@3.0.1
@@ -996,7 +957,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.textmeshpro@3.0.1
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.textmeshpro@3.0.1
       assetPath: Packages/com.unity.textmeshpro
       name: com.unity.textmeshpro
       displayName: TextMeshPro
@@ -1065,8 +1026,6 @@ m_PackageAssets:
         - 1.5.0-preview.14
         - 1.5.0
         - 1.5.1
-        - 1.5.3
-        - 1.5.4
         - 2.0.0
         - 2.0.1-preview.1
         - 2.0.1
@@ -1084,8 +1043,6 @@ m_PackageAssets:
         - 2.1.0-preview.14
         - 2.1.0
         - 2.1.1
-        - 2.1.3
-        - 2.1.4
         - 3.0.0-preview.1
         - 3.0.0-preview.3
         - 3.0.0-preview.4
@@ -1099,13 +1056,9 @@ m_PackageAssets:
         - 3.0.0-preview.14
         - 3.0.0
         - 3.0.1
-        - 3.0.3
-        - 3.0.4
         compatible:
         - 3.0.1
-        - 3.0.3
-        - 3.0.4
-        verified: 3.0.4
+        verified: 3.0.1
       dependencies:
       - name: com.unity.ugui
         version: 1.0.0
@@ -1147,7 +1100,7 @@ m_PackageAssets:
       isDirectDependency: 1
       version: 1.3.6
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.timeline@1.3.6
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.timeline@1.3.6
       assetPath: Packages/com.unity.timeline
       name: com.unity.timeline
       displayName: Timeline
@@ -1180,7 +1133,6 @@ m_PackageAssets:
         - 1.2.15
         - 1.2.16
         - 1.2.17
-        - 1.2.18
         - 1.3.0-preview.2
         - 1.3.0-preview.3
         - 1.3.0-preview.5
@@ -1193,7 +1145,6 @@ m_PackageAssets:
         - 1.3.4
         - 1.3.5
         - 1.3.6
-        - 1.3.7
         - 1.4.0-preview.1
         - 1.4.0-preview.2
         - 1.4.0-preview.3
@@ -1204,20 +1155,11 @@ m_PackageAssets:
         - 1.4.1
         - 1.4.2
         - 1.4.3
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
         - 1.5.0-preview.3
         - 1.5.0-preview.4
         - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.6.0-pre.1
         compatible:
         - 1.2.6
         - 1.2.7
@@ -1230,7 +1172,6 @@ m_PackageAssets:
         - 1.2.15
         - 1.2.16
         - 1.2.17
-        - 1.2.18
         - 1.3.0-preview.2
         - 1.3.0-preview.3
         - 1.3.0-preview.5
@@ -1243,7 +1184,6 @@ m_PackageAssets:
         - 1.3.4
         - 1.3.5
         - 1.3.6
-        - 1.3.7
         - 1.4.0-preview.1
         - 1.4.0-preview.2
         - 1.4.0-preview.3
@@ -1254,21 +1194,12 @@ m_PackageAssets:
         - 1.4.1
         - 1.4.2
         - 1.4.3
-        - 1.4.4
-        - 1.4.5
-        - 1.4.6
-        - 1.5.0-pre.2
         - 1.5.0-preview.1
         - 1.5.0-preview.2
         - 1.5.0-preview.3
         - 1.5.0-preview.4
         - 1.5.0-preview.5
-        - 1.5.1-pre.1
-        - 1.5.1-pre.2
-        - 1.5.1-pre.3
-        - 1.5.2
-        - 1.6.0-pre.1
-        verified: 1.3.7
+        verified: 1.3.6
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3107,7 +3038,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.0.0
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ext.nunit@1.0.0
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.ext.nunit@1.0.0
       assetPath: Packages/com.unity.ext.nunit
       name: com.unity.ext.nunit
       displayName: Custom NUnit
@@ -3127,16 +3058,12 @@ m_PackageAssets:
         - 0.1.6-preview
         - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
-        - 1.0.6
         compatible:
         - 0.1.5-preview
         - 0.1.6-preview
         - 0.1.9-preview
         - 1.0.0
-        - 1.0.5
-        - 1.0.6
-        verified: 1.0.6
+        verified: 1.0.0
       dependencies: []
       resolvedDependencies: []
       keywords:
@@ -3168,7 +3095,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 1.1.0
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.mathematics@1.1.0
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.mathematics@1.1.0
       assetPath: Packages/com.unity.mathematics
       name: com.unity.mathematics
       displayName: Mathematics
@@ -3243,7 +3170,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.1
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.common@3.0.1
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.common@3.0.1
       assetPath: Packages/com.unity.2d.common
       name: com.unity.2d.common
       displayName: 2D Common
@@ -3259,24 +3186,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.9-preview.1
-        - 1.0.9-preview.2
-        - 1.0.10-preview
-        - 1.0.11-preview.1
-        - 1.1.0-preview.1
-        - 1.1.0-preview.2
-        - 1.2.0-preview.1
-        - 2.0.1
-        - 2.0.2
-        - 2.1.0
-        - 3.0.0
         - 3.0.1
-        - 4.0.0
-        - 4.0.1
-        - 4.0.2
-        - 4.0.3
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.1
         verified: 3.0.1
@@ -3312,7 +3222,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637256005260000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3325,7 +3235,7 @@ m_PackageAssets:
       isDirectDependency: 0
       version: 3.0.2
       source: 1
-      resolvedPath: C:\Users\ffili\OneDrive\Documents\GitHub\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.path@3.0.2
+      resolvedPath: C:\Users\CAD-08ucenik\Documents\GitHub\Filip Fijan\razvoj\Razvoj-vjezbe\Library\PackageCache\com.unity.2d.path@3.0.2
       assetPath: Packages/com.unity.2d.path
       name: com.unity.2d.path
       displayName: 2D Path
@@ -3341,22 +3251,7 @@ m_PackageAssets:
       errors: []
       versions:
         all:
-        - 1.0.0-preview.1
-        - 1.0.0-preview.4
-        - 2.0.1
-        - 2.0.2
-        - 2.0.3
-        - 2.0.4
-        - 2.0.5
-        - 2.0.6
-        - 2.1.0
-        - 3.0.0
-        - 3.0.1
         - 3.0.2
-        - 4.0.0
-        - 4.0.1
-        - 5.0.0-pre.1
-        - 5.0.0-pre.2
         compatible:
         - 3.0.2
         verified: 3.0.2
@@ -3377,7 +3272,7 @@ m_PackageAssets:
       entitlements:
         isAllowed: 1
       isAssetStorePackage: 0
-      datePublishedTicks: 637328482940000000
+      datePublishedTicks: 0
       documentationUrl: 
       hasRepository: 1
       repository:
@@ -3387,5 +3282,5 @@ m_PackageAssets:
         path: 
   m_LocalPackages:
     m_LocalFileStatus: []
-m_ProjectPath: C:/Users/ffili/OneDrive/Documents/GitHub/razvoj/Razvoj-vjezbe/Packages
+m_ProjectPath: C:/Users/CAD-08ucenik/Documents/GitHub/Filip Fijan/razvoj/Razvoj-vjezbe/Packages
 m_EditorVersion: 2020.1.13f1 (5e24f28bfbc0)
